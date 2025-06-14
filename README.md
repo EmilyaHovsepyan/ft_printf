@@ -28,7 +28,6 @@
 - Modular design for maintainability and clarity
 
 ## 📄 Subject PDF
-
 You can read the full subject [here](subject.pdf).
 
 ## Usage
