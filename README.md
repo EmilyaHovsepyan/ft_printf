@@ -6,9 +6,10 @@
 
 > Custom implementation of the standard C `printf` function, developed as part of the 42 School curriculum.  
 > This project deepens knowledge of variadic functions, formatting, and memory management by reproducing the behavior of `printf`.
+---
 
 ## Project Overview
----
+
 `ft_printf` aims to replicate the behavior of the C standard library function `printf`. It supports multiple conversion specifiers, flags, and ensures robust and efficient output formatting. The project strengthens understanding of variadic arguments, string manipulation, and modular C programming following 42 norms.
 
 ## Features
@@ -26,6 +27,9 @@
 - Memory-safe and norm-compliant code
 - Modular design for maintainability and clarity
 
+## 📄 Subject PDF
+
+You can read the full subject [here](subject.pdf).
 
 ## Usage
 
